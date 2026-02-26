@@ -28,6 +28,7 @@ Lets-Code-Daily-Leetcode-Challenge/
 | 1 | Add Two Integers | [Link](https://leetcode.com/problems/add-two-integers/description/) | ✅ Completed |
 | 2 | Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array/description/) | ✅ Completed |
 | 3 | Convert the Temperature, Smallest Even Multiple, Fizz Buzz | [Link 1](https://leetcode.com/problems/convert-the-temperature/description/), [Link 2](https://leetcode.com/problems/smallest-even-multiple/description/), [Link 3](https://leetcode.com/problems/fizz-buzz/description/) | ✅ Completed |
+| 4 | Ant On The Boundary, Average Value of Even Numbers That Are Divisible by Three, Maximum Nesting Depth of the Parentheses | [Link 1](https://leetcode.com/problems/ant-on-the-boundary/description/), [Link 2](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/), [Link 3](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | ✅ Completed |
 
 ## 🎯 Goals
 
